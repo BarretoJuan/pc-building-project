@@ -1,0 +1,17 @@
+Este programa servirá como un asistente para el montaje de computadores, en él, al usuario se le pedirá
+que escoja entre un catálogo de cada componente, teniendo en consideración.
+
+* Case
+* CPU
+* GPU
+* RAM
+* Fuente de poder
+* Medio de almacenamiento
+* Motherboard
+
+el programa dará un puntaje al rendimiento del computador,
+el monto total de los componentes, y ofrece un servicio opcional de ensamblaje profesional.
+
+Además, en caso de que el usuario no sepa qué componentes elegir, se podrá realizar un test que oriente
+al usuario sobre qué componentes puede escoger en función a sus necesidades.
+
