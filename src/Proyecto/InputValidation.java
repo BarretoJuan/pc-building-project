@@ -28,14 +28,17 @@ public class InputValidation {
     }
 
     public static boolean CedulaValidation (String cedula) {
-    
+        int numCedula;
         try{
-        int numCedula = Integer.parseInt(cedula);
+        numCedula = Integer.parseInt(cedula);
         } catch (Exception e) {
             System.out.println("Ingrese un numero de cedula valido");
+            
             return false;
         }
+        
         System.out.println("Cedula valida");
+        System.out.println(numCedula);
         return true;
        
     }
